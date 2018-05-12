@@ -1,0 +1,39 @@
+_repo: Ye-Book-of-Copperheads_45274
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45274-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Leland, Charles Godfrey
+    aliases:
+    - Breitmann, Hans
+    - Breitman, Hans
+    - Leland, Charles G.
+    birthdate: 1824
+    deathdate: 1903
+    gutenberg_agent_id: '243'
+    url: http://www.gutenberg.org/2009/agents/243
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Godfrey_Leland
+  - agent_name: Leland, H. P. (Henry Perry)
+    alias: Leland, Henry Perry
+    birthdate: 1828
+    deathdate: 1868
+    gutenberg_agent_id: '43391'
+    url: http://www.gutenberg.org/2009/agents/43391
+description: ''
+gutenberg_issued: '2014-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45274'
+  lccn: '03020615'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Poetry'
+- !lcsh 'Caricatures and cartoons -- United States'
+- !lcc 'E456'
+title: Ye Book of Copperheads
+url: http://www.gutenberg.org/ebooks/45274
