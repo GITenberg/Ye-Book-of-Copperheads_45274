@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '43391'
     url: http://www.gutenberg.org/2009/agents/43391
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45274#Ye-Book-of-Copperheads
 gutenberg_issued: '2014-03-31'
 gutenberg_type: Text
 identifiers:
